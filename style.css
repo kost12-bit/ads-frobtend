@@ -1,0 +1,32 @@
+.ads_header {
+    padding: 24px;
+    font-family: 'roboto', sans-serif;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.Header_title {
+    display: inline-block;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.ads_button {
+    display: inline-block;
+    float: right;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 8px 12px;
+    border-radius: 7px;
+    background-color: black;
+    color: crimson;
+}
+
+.Box_content {
+    padding: 24px;
+}
+
+.Box_info {}
+
+.Box_name {}
+
+.Box_phone {}
