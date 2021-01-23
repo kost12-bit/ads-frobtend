@@ -25,8 +25,42 @@
     padding: 24px;
 }
 
-.Box_info {}
+.Box_info {
 
-.Box_name {}
+}
 
-.Box_phone {}
+.Box_name {
+
+}
+
+.Box_phone {
+
+}
+
+.Model_window {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: black;
+    display: flex;
+
+}
+
+.Model_form {
+    padding: 24px;
+    border-radius: 12px;
+    background-color: blanchedalmond;
+    display: inline-block;
+}
+
+.Form_title{
+    font-family: 'roboto' 'sans-sherif';
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.Content_field {
+    
+}
